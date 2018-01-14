@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class About extends Component {
   render() {
     return (
-      <span>Abouts</span>
+      <span className="align-center">БАЛТО ЧАКАМ ДА МИ ПРАТИШ КАКВО ЩЕ Е ТУКА !</span>
     );
   }
 }

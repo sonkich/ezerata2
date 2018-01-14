@@ -40,7 +40,8 @@ export default class Contacts extends Component {
             <div className="class-contacts-right-container">
                <p>За снимки от събития и актуални промоции, посетете нашата Facebook страница:</p>
                <a href="https://www.facebook.com/ezerata2/" target="_blank" className="facebook-button">
-                  Езерата 2 <span className="facebook-logo"></span>
+                  <span className="facebook-logo"></span>
+                  Езерата 2
                </a>
             </div>
          </div>

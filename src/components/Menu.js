@@ -13,10 +13,8 @@ export default class Menu extends Component {
       <div className="menu-wrapper">
          <nav>
             <ul>
-               <li><Link to="/menu/salads" >salads</Link></li>
-               <li><Link to="/menu/soups" >soups</Link></li>
-               <li><Link to="/menu/dinners" >dinners</Link></li>
-               <li><Link to="/menu/deserds" >deserds</Link></li>
+               <li><Link to="/menu/salads" >Салати</Link></li>
+               <li><Link to="/menu/soups" >Супи</Link></li>
             </ul>
          </nav>
          <section>
